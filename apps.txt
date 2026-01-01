@@ -10,3 +10,4 @@ Spotify
 Stremio
 Steam
 Discord
+Easy Effects - Speaker EQ
