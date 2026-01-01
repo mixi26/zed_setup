@@ -1,1 +1,1 @@
-# zed_setup
+#   La mia configurazione Zed
