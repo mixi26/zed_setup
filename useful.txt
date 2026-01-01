@@ -1,0 +1,42 @@
+General Linux commands:
+cd [directory/directory/file]: enter this path
+mkdir: create folder at current path
+touch [file.extension]: create file with specified extension at current path
+sudo [...]: run as administrator
+sudo dnf install [...]: install as administrator
+sudo dnf check-update: check if there are any updates available
+sudo dnf upgrade: find and install updates
+ls: shows a list of all the files and directories (folders) in a directory
+ls -d */: only list the directories
+nano [file]: edit file
+
+auto-cpufreq:
+sudo auto-cpufreq --monitor: monitor and see CPU optimisation suggestions
+sudo auto-cpufreq --live: view live stats of CPU optimisations made by daemon
+
+sudo dnf install snapd: install Snap (Snaps are applications packaged with all their dependencies to run on all popular Linux distributions from a single build. They update automatically and roll back gracefully.
+sudo ln -s /var/lib/snapd/snap /snap: enable classic Snap support (create a symbolic link between /var/lib/snapd/snap and /snap)
+cat /etc/fedora-release: check Fedora version
+hostnamectl: OS information
+cat /etc/os-release: in depth Fedora version
+
+watch -n 1 sensors
+stress -c 8 --timeout 60s
+
+
+Coding:
+Python
+cd Coding/Python
+source .venv/bin/activate: activate Python virtual environment
+deactivate: deactivate Python virtual environment
+zed .: open Zed
+python [file.py]: runs Python file
+
+
+Audio:
+pavucontrol: select audio devices
+alsamixer: check audio levels (F6 for sound card)
+
+
+Mullvad:
+mullvad auto-connect set on: turn on mullvad daemon
