@@ -11,3 +11,17 @@ Stremio
 Steam
 Discord
 Easy Effects - Speaker EQ
+Volume Control
+JupyterLab
+
+Extensions:
+Freon
+Notification banner position
+Status Icons
+AppIndicator and KStatusNotifierItem Support
+Apps Menu
+Background Logo
+Launch New Instance
+Places Status Indicator
+Pop Shell
+Window List
