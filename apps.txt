@@ -1,0 +1,12 @@
+Ghostty - Terminal (Alacritty)
+Zed - IDE
+Firefox - Browser (consider alternatives)
+auto-cpufreq
+Bitwarden
+JetBrains Toolbox (Datagrip)
+dbeaver
+Mullvad VPN
+Spotify
+Stremio
+Steam
+Discord
