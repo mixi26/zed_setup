@@ -25,3 +25,4 @@ Launch New Instance
 Places Status Indicator
 Pop Shell
 Window List
+Solaar
