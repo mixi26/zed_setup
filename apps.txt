@@ -13,6 +13,7 @@ Discord
 Easy Effects - Speaker EQ
 Volume Control
 JupyterLab
+Syncthing
 
 Extensions:
 Freon
